@@ -148,6 +148,8 @@
             $('#tag_cloud a').tagcloud();
         })
     }
+    
+    loadlive2d('glc' ,'model/koharu/koharu.model.json');
 </script>
 
 <!--fastClick.js -->
@@ -216,8 +218,6 @@
 
     generateCatalog(".catalog-body");
     
-    loadlive2d('glc' ,'model/koharu/koharu.model.json');
-
     // toggle side catalog
     $(".catalog-toggle").click((function(e){
         e.preventDefault();
