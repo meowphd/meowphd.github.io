@@ -13,6 +13,8 @@
   white-space: pre;       // forces <code> to respect <pre> formatting
 }
 
+#glc { position: fixed; right: 0px; z-index: 999; pointer-events: none; bottom: -20px; }
+
 
 /*
  * GitHub style for Pygments syntax highlighter, for use with Jekyll
