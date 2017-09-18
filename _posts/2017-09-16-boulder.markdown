@@ -43,5 +43,5 @@ tags:
 <img width="600" src="https://i.loli.net/2017/09/17/59be5fadb5ce1.png" alt="学校CU" title="学校CU">
 <img width="600" src="https://i.loli.net/2017/09/17/59be5fadbbe0c.png" alt="学校CU" title="学校CU">
 <img width="600" src="https://ooo.0o0.ooo/2017/09/18/59bf3eb6e3234.jpg" alt="大厨之路" title="大厨之路">
-<img width="450" src="https://i.loli.net/2017/09/18/59bf3eb6e9700.jpg" alt="大厨之路" title="大厨之路">
+<img width="600" src="https://i.loli.net/2017/09/18/59bf3eb6e9700.jpg" alt="大厨之路" title="大厨之路">
 <img width="600" src="https://i.loli.net/2017/09/18/59bf3eb701518.jpg" alt="大厨之路" title="大厨之路">
